@@ -28,20 +28,20 @@ ffmpeg常用命令操作：http://www.code4app.com/blog-843201-326.html
 
 
 
-![image](https://github.com/XLAccount/ALLGIFS/blob/master/psb1.gif)
+![image](https://github.com/XLAccount/ALLGIFS/blob/master/psb-1.gif)
 
 
 展示图片
 
 
 
-![image text](https://github.com/XLAccount/ALLGIFS/blob/master/psb2.gif)
+![image text](https://github.com/XLAccount/ALLGIFS/blob/master/psb-2.gif)
 
 
 展示图片
 
 
-![image text](https://github.com/XLAccount/ALLGIFS/blob/master/psb3.gif)
+![image text](https://github.com/XLAccount/ALLGIFS/blob/master/psb-3.gif)
 
 
 展示图片
