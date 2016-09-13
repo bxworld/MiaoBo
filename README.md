@@ -6,6 +6,13 @@ BUG修复：解决程序运行中偶尔崩溃问题，解决连续下拉刷新�
 
          解决登录程序偶尔崩溃,修复轮播图片和页面控制器叠加等问题，修复新浪授权登录  (2016.9.7)
 
+         适配5s以上的机型除了6sPlus和6Plus延迟较大外，其余演出都较小，网速好的话可以忽略不计 (2016.9.12)
+         
+         新版本极大优化程序性能，修复关注数据异常等小问题,重新布局热门页面，减少因反复加载带来的性能消耗 (2016.9.13)
+         
+         增加个人中心页面，采用下拉放大图片➕ 波纹效果  ()2016.9.14
+
+
 关于IJKMediaFramework/IJKMediaFramework.h找不到的问题,下载后直接拉到项目中即可
 下载地址：https://pan.baidu.com/s/1boPOomN 密码:：9yd8
 
@@ -14,21 +21,27 @@ ffmpeg常用命令操作：http://www.code4app.com/blog-843201-326.html
 
 #喜欢请 Star & Fork
 
-![image text](https://thumbnail0.baidupcs.com/thumbnail/4634700136461f523c1ad7334c75462b?fid=1530795080-250528-817673309142451&time=1473793200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2FP388DZfzAW2QqTemNVzFxklBEk%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2105191837&dp-callid=0&size=c850_u580&quality=100)
+![image text](https://github.com/XLAccount/ALLGIFS/blob/master/psb.gif)
 
 
 展示图片
 
 
 
-![image](http://a3.qpic.cn/psb?/V145J2jn29HOci/fLlL0vvCyh0J7YeepOq6O.4Bfbv8smHi0WztY1ZxnoU!/b/dI8AAAAAAAAA&bo=aAHgAQAAAAACQu4!&rf=viewer_4)
+![image](https://github.com/XLAccount/ALLGIFS/blob/master/psb1.gif)
 
 
 展示图片
 
 
 
-![image text](https://github.com/XLAccount/MiaoBo/blob/master/程序展示3.gif)
+![image text](https://github.com/XLAccount/ALLGIFS/blob/master/psb2.gif)
+
+
+展示图片
+
+
+![image text](https://github.com/XLAccount/ALLGIFS/blob/master/psb3.gif)
 
 
 展示图片
