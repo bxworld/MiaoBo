@@ -14,7 +14,7 @@ ffmpeg常用命令操作：http://www.code4app.com/blog-843201-326.html
 
 #喜欢请 Star & Fork
 
-![image text](https://github.com/XLAccount/MiaoBo/blob/master/程序展示1.gif)
+![image text](https://thumbnail0.baidupcs.com/thumbnail/4634700136461f523c1ad7334c75462b?fid=1530795080-250528-817673309142451&time=1473793200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-%2FP388DZfzAW2QqTemNVzFxklBEk%3D&expires=2h&chkv=0&chkbd=0&chkpc=&dp-logid=2105191837&dp-callid=0&size=c850_u580&quality=100)
 
 
 展示图片
