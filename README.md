@@ -21,7 +21,7 @@ ffmpeg常用命令操作：http://www.code4app.com/blog-843201-326.html
 
 
 
-![image text](https://github.com/XLAccount/MiaoBo/blob/master/程序展示2.gif)
+![image](http://a3.qpic.cn/psb?/V145J2jn29HOci/fLlL0vvCyh0J7YeepOq6O.4Bfbv8smHi0WztY1ZxnoU!/b/dI8AAAAAAAAA&bo=aAHgAQAAAAACQu4!&rf=viewer_4)
 
 
 展示图片
